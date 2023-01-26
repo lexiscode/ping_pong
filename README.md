@@ -6,3 +6,13 @@ Nolan Bushnell founded Atari at 1972 in order to create games and ideas and lice
 Similar to other famous games such as Pacman and Tetris, Pong became one of the symbols of computer gaming.
 
 Atari sold more then 35000 Pong machines, this figure is only about one third of the total number of Pong machines that were sold globally, since many Pong clones appeared shortly after the debut of the original Atari Pong game. The way Atari chose to compete with the Pong Game clones was to produce more innovative games such as "Double Pong" which was a pong game with four players, two in every side and a bigger screen.
+
+PLAY THE GAME IN YOUR WINDOWS (I built it using Python OOP):
+
+Click on the link: https://1drv.ms/f/s!AqiJaR7AblSkiQzuQrFyjK5H6twz
+
+Click Download button located at the top, it will download the folder as a whole, just 24MB.
+
+Then in the folder find the main.exe there and open it.
+
+PLAY THE PONG GAME WITH FRIENDS😌, use the Up and Down keys, another play should use W and S keys.
